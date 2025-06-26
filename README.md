@@ -9,6 +9,5 @@ The project has 7 Sessions like standard PTEST Standard
 4. Exploitation
 5. Post-Exploitation
 6. Reporting
-7. Re-Testing. 
 
 
