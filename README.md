@@ -73,3 +73,14 @@ This project helps bridge the gap between theoretical knowledge and real-world c
 6. Reporting
 
 
+### **Video Demo ** ##
+
+## Project Presentation In Khmer ##
+https://youtu.be/Lntxq57td7E?si=KV1w_mxiTmtuNnoB
+
+1 FTP Exploitation
+https://youtu.be/vO31NSV2SOc?si=O5604DVm145BAODY
+2 SSH Exploitation 
+https://youtu.be/Kz4bSknGlF0?si=iOF1kt9zamx2Ms6R
+
+
